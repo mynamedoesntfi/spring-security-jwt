@@ -1,13 +1,13 @@
 # spring-security-jpa
  Simple Project for JWT using spring security
 
-#Technology
+# Technology
 SpringBoot
 Spring-Security
 JWT
 MySQL
 
-#How to set up
+# How to set up
 
 Files available in 'HelperFiles' directory
 
